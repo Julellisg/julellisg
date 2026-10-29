@@ -1,10 +1,10 @@
-<img src="images/banner.png" alt="Banner Image"/> &nbsp;
+<img src="images/banner.png" alt="Banner Image"/>
 
 <div>
     <h1>About Me</h1>
     <p style="font-size:16px;">
         Hello! My name is Julian and I am a <u>web developer</u> who tries to make niche things. From remakes of things to cater to my specific needs, to things that don't exist yet. I use AI as an assistant to help fill in gaps in my workflow without crutching on it.
-    </p> &nbsp;
+    </p>
     <h1>Technical Skills</h1>
 </div>
 <table>
@@ -52,7 +52,7 @@
 
 <div style="align-items: center;" align="center">
     <img title="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julellisg&langs_count=8&theme=aura_dark&layout=compact&hide=C" height="180">
-</div>&nbsp;
+</div>
 <div style="font-size:16px">
     <h1>Interests/Hobbies</h1>
     <ul>
